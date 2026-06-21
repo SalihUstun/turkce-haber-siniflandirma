@@ -1,0 +1,30 @@
+# Model ağırlıkları — her biri ~393 MB, GitHub limitini aşıyor
+model/*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Ortam
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/

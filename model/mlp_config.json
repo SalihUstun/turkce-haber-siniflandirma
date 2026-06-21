@@ -1,0 +1,8 @@
+{
+  "input_dim": 100000,
+  "hidden1": 1024,
+  "hidden2": 512,
+  "n_classes": 7,
+  "dropout": 0.3,
+  "n_ensemble": 3
+}

@@ -1,0 +1,59 @@
+1.
+Apple'ın yeni iPhone 16 Pro modeli Türkiye'de satışa çıkar çıkmaz büyük ilgi gördü. Cihazın en dikkat çeken özelliği, fotoğraf ve video kalitesini yapay zeka algoritmaları aracılığıyla gerçek zamanlı iyileştiren kamera sistemi. Önceki nesle kıyasla yüzde kırk daha hızlı çalıştığı bildirilen A18 Pro çipi, özellikle oyun ve grafik yoğun uygulamalarda belirgin performans artışı sağlıyor. Türkçe sesli asistan desteğinin bu nesille ilk kez standart olarak gelmesi de kullanıcılar tarafından önemli bir yenilik olarak değerlendiriliyor. Teknoloji yorumcuları, pil ömrünün önceki nesle göre kayda değer biçimde uzadığını özellikle vurguluyor.
+
+2.
+Google, Türkçe için özel olarak ince ayar yapılan yeni bir Gemini dil modeli katmanını arama motoruna entegre ettiğini duyurdu. Yeni özellik sayesinde kullanıcılar karmaşık Türkçe soru cümlelerini doğal dilde yazabiliyor ve sonuçlar yalnızca bağlantı listesi yerine derli toplu bir özet biçiminde sunuluyor. Uzun metinleri özetleme, tarif adımlarını sıralama ve karşılaştırmalı analiz yapma işlevleri ilk aşamada kullanıma açılan başlıca özellikler. Kullanıcı geri bildirimlerinde özellikle gramer ve sözcük anlam belirsizliklerini doğru yorumlama kabiliyeti olumlu karşılandı.
+
+3.
+Samsung'un katlanabilir telefonu Galaxy Z Fold 6, Türkiye'deki ilk hafta satış rakamlarıyla şirketi şaşırttı. Dış ekrandan iç büyük ekrana geçişi kolaylaştıran gelişmiş menteşe tasarımı ve ince gövde yapısı tasarım açısından önceki nesle göre en çok öne çıkarılan yenilikler. Android uygulamalarının büyük ekranda ikiye bölünmüş görünümde çalışması, tablet alışkanlığı olan kullanıcılar için büyük kolaylık sağlıyor. Teknoloji incelemecileri uzun süreli kullanımda menteşe dayanıklılığının gerçek sınav olacağına dikkat çekiyor.
+
+4.
+Türk yazılım geliştirici topluluğunun beklediği açık kaynak Türkçe dil modeli GitHub'da yayımlandı. Dört milyar parametreli modelin ağırlıkları ve eğitim kodu tamamen halka açık; geliştiriciler modeli indirip kendi donanımlarında çalıştırabiliyor. Hugging Face'te model kartı yayımlanır yayımlanmaz saatlerce en çok indirilen yapay zeka modeli oldu. İlk test sonuçlarında Türkçe dilbilgisi ve anlam tutarlılığının önceki açık modellere kıyasla belirgin biçimde üstün olduğu görüldü; topluluk bu bulguları benchmark grafikleri ve kod örnekleriyle paylaşıyor.
+
+5.
+Dünyaca ünlü oyun şirketi Valve, Steam platformuna yüklenen yapay zeka destekli oyun öneri motorunun beta sürümünü aktif kullanıcılarla test etmeye başladı. Yeni sistem, yalnızca tür ve etiket eşleştirmesi yapmak yerine kullanıcının oynama süresini, derecelendirme alışkanlıklarını ve terk ettiği oyunlardaki ortak noktaları öğrenerek kişiselleştirilmiş öneri üretiyor. İlk testlerde kullanıcıların önerilen oyunlara tıklama oranının eski sisteme göre iki buçuk kat arttığı görüldü. Türkiye, Steam kullanıcı sayısı bakımından dünyada ilk on ülke arasında yer alıyor.
+
+6.
+Meta, Instagram'ın yeni nesil Reels düzenleme arayüzünü mobil uygulama güncellemesiyle tüm kullanıcılara açtı. Güncellemeyle birlikte video klipleri zaman çizelgesi üzerinde sürükle-bırak yöntemiyle düzenleyebiliyor, her klibe ayrı ses seviyesi atanabiliyor ve yapay zeka destekli otomatik altyazı özelliği ekleniyor. İçerik üreticileri bu özelliklerin daha önce yalnızca masaüstü yazılımlarında mümkün olan düzenleme işlemlerini doğrudan telefonda yapılabilir hale getirdiğini belirtiyor. Güncelleme Türkçe arayüz desteğiyle birlikte geliyor.
+
+7.
+GitHub Copilot, VS Code içine doğrudan gömülü bir sohbet arayüzü kazandı; geliştiriciler artık editörden çıkmadan seçili kodu açıklayıp hata ayıklamasını isteyebiliyor. Yeni sürümde Copilot, projenin tamamını bağlam olarak okuyabiliyor; bu sayede başka dosyalardaki fonksiyon imzalarına uygun kod parçacıkları üretebiliyor. Python, TypeScript ve Rust desteği bu sürümde özellikle güçlendirildi. Toplulukta en çok paylaşılan kullanım senaryosu ise bir interface tanımından sıfırdan tam bir implementasyon ve birim test dosyası oluşturma; bu işlem artık tek bir Copilot komutuyla tamamlanabiliyor.
+
+8.
+Spotify, müzik önerilerini tamamen yeniden tasarlayan yapay zeka tabanlı "Daybreak" özelliğini Türkiye dahil on iki ülkede test etmeye başladı. Özellik, kullanıcının günün saatine ve dinleme geçmişine bakarak sabah, öğle ve gece için ayrı ayrı kişiselleştirilmiş playlist oluşturuyor. Kulağa alışılmamış gelen ama beğenilme ihtimali yüksek şarkıları keşfetmeye teşvik eden bir "sürpriz modu" da sisteme eklendi. İlk kullanıcı değerlendirmelerinde günlük dinleme süresinin ortalama yüzde on sekiz arttığı görüldü.
+
+9.
+NVIDIA'nın yeni nesil RTX 5080 ekran kartı, ray tracing performansında önceki nesle göre iki kat artış sağlarken güç tüketimini aynı seviyede tutmayı başarıyor. Türkiye'deki teknoloji meraklıları kartın yüksek fiyatına rağmen ön sipariş listelerini saatler içinde doldurdu. Yeni DLSS 4 teknolojisi sayesinde yapay zeka yardımıyla render edilen kareler gerçekten işlenmiş piksellerden ayırt edilemez hale geliyor. Oyun testlerinde 4K çözünürlükte saniyede yüz karenin üzerine çıkmak artık üst segment oyunlarda standart haline geldi.
+
+10.
+TikTok, video içeriklerini gerçek zamanlı olarak metne dönüştürüp arayüzde gösterdiği yeni altyazı motorunu Türkçe diline genişletti. Yapay zeka tabanlı sistem, konuşma hızı ve diyalekt farklılıklarına uyum sağlayarak yüzde doksan beşin üzerinde doğruluk oranına ulaşıyor. Türkçede ikinci dil olarak içerik izleyen kullanıcılar için bu özelliğin platform deneyimini kökten iyileştirdiği bildiriliyor. İçerik üreticileri ise otomatik altyazının erişilebilirliği artırarak izlenme sürelerini olumlu etkilediğini gözlemliyor.
+
+11.
+Apple'ın masaüstü işletim sistemi macOS Sequoia'nın yeni sürümü, iPhone ekranını Mac'e ayna görüntüsü olarak yansıtma ve doğrudan Mac klavye-faresiyle iPhone uygulamalarını kontrol etme özelliği getiriyor. Türkiye'deki geliştiriciler bu özelliğin mobil uygulama test süreçlerini büyük ölçüde hızlandırdığını belirtirken içerik üreticileri de çift ekran düzeni sayesinde daha verimli çalışabildiklerini aktarıyor. Özelliğin USB bağlantısına ihtiyaç duymaksızın Wi-Fi üzerinden çalışması pratikliğini artırıyor.
+
+12.
+Oyun dünyasının beklediği yapay zeka destekli NPC sistemi ilk kez büyük bütçeli bir açık dünya oyununda kullanıldı. Sistem, oyun karakterlerinin sabit diyalog ağaçları yerine büyük dil modeli aracılığıyla bağlama duyarlı ve tekrar etmeyen konuşmalar yapabilmesini sağlıyor. Oyuncuların NPC'lere alışılmışın dışındaki sorular sorduğunda da anlamlı yanıtlar alabildiği testlerde doğrulandı. Oyun eleştirmenleri bu gelişmeyi rol yapma oyunlarında bir dönüm noktası olarak değerlendiriyor.
+
+13.
+WhatsApp, uzun süredir beklenen görüntülü arama arka plan değiştirme özelliğini Android ve iOS güncellemesine ekledi. Artık görüntülü konuşma sırasında gerçek arka planı bulanıklaştırma ya da hazır görsel arka planlardan birini seçme imkânı sunuluyor. Yapay zeka tabanlı arka plan ayırma sistemi saç ve ince detayları önceki sürümlere göre çok daha doğru biçimde işliyor. Türkiye'de WhatsApp'ın iş görüşmeleri için yaygın biçimde kullanıldığı düşünüldüğünde bu özelliğin kurumsal kullanıcılar tarafından memnuniyetle karşılandığı görülüyor.
+
+14.
+Türk yazılım şirketi Paraşüt, uygulamasına OCR ve yapay zeka tabanlı belge tanıma özelliği ekledi. Yeni özellik sayesinde kullanıcılar kağıt fatura veya makbuzun fotoğrafını çektiğinde uygulama tarihi, tutarı ve satıcı adını otomatik olarak tanıyıp ilgili alana aktarıyor. Özellik iOS ve Android uygulamalarına güncellemeyle gelirken web arayüzüne de sürükle-bırak yükleme desteği eklendi. Geliştirici ekibi, modelin Türkçe yazı tiplerindeki başarı oranını artırmak için özel bir OCR veri seti derlediğini ve bu sayede karakteri doğru tanıma oranının yüzde doksan dörde çıktığını açıkladı.
+
+15.
+Adobe Photoshop'un yeni sürümüne eklenen "Üretici Genişletme" aracı, fotoğrafın kenarlarını yapay zeka aracılığıyla gerçekçi biçimde uzatabiliyor. Araç, Firefly modelini kullanarak seçilen orijinal pikselleri analiz ediyor ve boş alanlara bağlam uyumlu içerik üretiyor. Kullanıcılar aracın dikey bir fotoğrafı yatay formata dönüştürmede ya da çerçeve dışında kalan nesneleri tahmin etmede ne kadar başarılı olduğunu gösteren karşılaştırmalı videolar paylaşıyor. Photoshop beta kanalında deneyebilen kullanıcılar özelliğin Content-Aware Fill'den çok daha gerçekçi sonuç verdiğini belirtiyor.
+
+16.
+Android 15 güncellemesi, pil ömrünü uzatmak amacıyla arka planda çalışan uygulamaları daha agresif biçimde kısıtlayan yeni bir enerji yönetim katmanı getiriyor. Güncellemede ayrıca uygulama klonlama özelliği standart hale geldi; bu sayede iki farklı sosyal medya hesabı aynı uygulamada ayrı profil olarak kullanılabiliyor. Türkiye'de yaygın olan ikili SIM kullanım alışkanlığıyla örtüşen bu özellik, kullanıcılar arasında olumlu karşılandı. Güncelleme önce Pixel cihazlara gelecek, ardından diğer üreticiler kendi sürümlerini yayımlayacak.
+
+17.
+Suno'nun v4 modeliyle gelen ses kalitesi ve enstrümantal uyum, yapay zeka müzik üretiminde teknik açıdan büyük bir sıçramanın yaşandığını gösteriyor. Model, kullanıcının girdiği prompt metninden BPM, ton ve enstrüman düzenlemesini otomatik olarak çıkarıyor; ardından sıfırdan sentez yaparak dalga formu üretiyor. Önceki sürümlerde belirgin olan "yapay" ses artefaktları bu modelde neredeyse tamamen giderildi. Yazılım geliştiriciler Suno API'sini kullanarak kendi uygulamalarına yapay zeka ses üretimi entegre etmeye başladı; toplulukta paylaşılan örnek kodlar hızla klonlanıyor.
+
+18.
+Python 3.13 sürümü yayımlandı ve en dikkat çeken teknik değişiklik Global Interpreter Lock'un deneysel olarak devre dışı bırakılabilmesine olanak tanıyan yeni çalışma modu. GIL olmadan birden fazla thread gerçekten paralel çalışabiliyor; bu özelliği etkinleştirmek için Python yorumlayıcısını `--disable-gil` bayrağıyla başlatmak yeterli. Ayrıca yeni etkileşimli REPL, sözdizimi renkli gösterim ve çok satırlı düzenleme desteğiyle geliştirildi. Geliştiriciler threading ve multiprocessing testlerini GitHub'a yükleyerek GIL olmadan elde ettikleri benchmark sonuçlarını paylaşıyor; sonuçlar CPU bağımlı döngülerde ciddi hız farkı ortaya koyuyor.
+
+19.
+Türk oyun stüdyosu Pera Games, geliştirdiği bulmaca-platform oyunuyla Steam'de çıkış haftasında doksan altı puan kullanıcı skoru aldı. Oyun, Anadolu mitolojisinden beslenen görsel tasarımı ve renk körü dostu erişilebilirlik seçenekleriyle uluslararası oyuncu topluluklarında ilgi uyandırdı. Steam sayfa açıklaması on iki dile çevrilmiş olup kısa sürede küresel inceleme yağmuruna tutuldu. Stüdyo kurucusu oyunun gelirinin yarısını bir sonraki projenin geliştirme sürecine aktaracaklarını açıkladı.
+
+20.
+Raspberry Pi'nin yeni modeli Pi 5, önceki nesle kıyasla iki ila üç kat daha hızlı işlemci performansı sunuyor ve donanım video kod çözücü desteğiyle birlikte geliyor. Türkiye'deki hobi elektroniği ve eğitim topluluklarında Pi 5'in hızı sayesinde ev sunucusu, medya merkezi ve eğitim robotiği projelerinde yeni olanaklar açıldığı tartışılıyor. Önceki nesle ait aksesuarların büyük bölümünün yeni modelle uyumlu olması geçiş maliyetini düşürüyor. Tedarik sorunlarının bu sefer daha az yaşanması bekleniyor; ön siparişler planlanandan hızlı tükendi.

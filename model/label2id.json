@@ -1,0 +1,9 @@
+{
+  "ekonomi": 0,
+  "kultur-sanat": 1,
+  "magazin": 2,
+  "saglik": 3,
+  "siyaset": 4,
+  "spor": 5,
+  "teknoloji": 6
+}
