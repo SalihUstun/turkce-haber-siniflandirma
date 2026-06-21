@@ -89,7 +89,7 @@ flowchart TD
 ```
 Tüm veri
   ├── %87.5  train + val ──┬── %87.5  train
-  └── %12.5  test           └── %12.5  val
+  └── %12.5  test          └── %12.5  val
 ```
 
 | Split | Oran | Kullanım |
