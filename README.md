@@ -120,6 +120,46 @@ Tüm veri
 
 ---
 
+## Modeli Kullanmak
+
+İki yol var: hazır modeli indirip kullanmak ya da sıfırdan eğitmek.
+
+### Yol 1 — HuggingFace'ten İndir (Hızlı)
+
+Eğitilmiş model dosyaları burada: **[huggingface.co/salihustun/turkce-haber-siniflandirma](https://huggingface.co/salihustun/turkce-haber-siniflandirma)**
+
+```bash
+pip install huggingface_hub
+```
+
+```python
+from huggingface_hub import hf_hub_download
+import os
+
+repo_id = "salihustun/turkce-haber-siniflandirma"
+os.makedirs("model", exist_ok=True)
+
+dosyalar = [
+    "mlp_model_0.pt", "mlp_model_1.pt", "mlp_model_2.pt",
+    "tfidf_word.pkl", "tfidf_char.pkl",
+    "mlp_config.json", "id2label.json", "label2id.json"
+]
+
+for dosya in dosyalar:
+    hf_hub_download(repo_id=repo_id, filename=dosya, local_dir="model")
+    print(f"{dosya} indirildi")
+```
+
+Dosyalar `model/` klasörüne inince inference scriptlerini çalıştırabilirsin:
+
+```bash
+python predict.py
+```
+
+### Yol 2 — Sıfırdan Eğit (Kaggle)
+
+---
+
 ## Kaggle'da Eğitim
 
 ### 1. Dataset'i Ekle
@@ -149,9 +189,9 @@ ZIP'i aç, içindekileri `model/` klasörüne koy:
 
 ```
 model/
-├── mlp_model_0.pt       # ~393 MB — gitignore
-├── mlp_model_1.pt       # ~393 MB — gitignore
-├── mlp_model_2.pt       # ~393 MB — gitignore
+├── mlp_model_0.pt       # ~393 MB — HuggingFace'ten indir
+├── mlp_model_1.pt       # ~393 MB — HuggingFace'ten indir
+├── mlp_model_2.pt       # ~393 MB — HuggingFace'ten indir
 ├── tfidf_word.pkl
 ├── tfidf_char.pkl
 ├── mlp_config.json
@@ -159,7 +199,9 @@ model/
 └── label2id.json
 ```
 
-> `.pt` dosyaları GitHub limitini (~100 MB) aştığından `.gitignore`'a alınmıştır.
+> `.pt` dosyaları GitHub limitini (~100 MB) aştığından HuggingFace Hub'da barındırılmaktadır.
+>
+> **Model dosyalarını indir:** [huggingface.co/salihustun/turkce-haber-siniflandirma](https://huggingface.co/salihustun/turkce-haber-siniflandirma)
 
 ---
 
@@ -175,9 +217,9 @@ turkce-haber-siniflandirma/
 ├── model/                    # Eğitilmiş model dosyaları
 │   ├── tfidf_word.pkl
 │   ├── tfidf_char.pkl
-│   ├── mlp_model_0.pt        # ← gitignore (Kaggle'dan indir)
-│   ├── mlp_model_1.pt        # ← gitignore (Kaggle'dan indir)
-│   ├── mlp_model_2.pt        # ← gitignore (Kaggle'dan indir)
+│   ├── mlp_model_0.pt        # ← HuggingFace'ten indir
+│   ├── mlp_model_1.pt        # ← HuggingFace'ten indir
+│   ├── mlp_model_2.pt        # ← HuggingFace'ten indir
 │   ├── mlp_config.json
 │   ├── id2label.json
 │   └── label2id.json
