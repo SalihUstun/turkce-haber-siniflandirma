@@ -124,7 +124,7 @@ Tüm veri
 
 İki yol var: hazır modeli indirip kullanmak ya da sıfırdan eğitmek.
 
-### Yol 1 — HuggingFace'ten İndir (Hızlı)
+### Yol 1 — HuggingFace'ten İndir
 
 Eğitilmiş model dosyaları burada: **[huggingface.co/salihustun/turkce-haber-siniflandirma](https://huggingface.co/salihustun/turkce-haber-siniflandirma)**
 
